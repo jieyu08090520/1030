@@ -1,0 +1,6 @@
+question,optA,optB,optC,answer
+哪一個是 p5.js 的主要功能?,繪圖與動畫,資料庫管理,伺服器建置,A
+在 p5.js 中，用於載入外部檔案的函式是?,draw(),setup(),preload(),C
+CSV 代表什麼?,Comma Separated Values,Code Script Version,Creative Simple Visual,A
+p5.js 的主要繪圖迴圈函式是?,setup(),draw(),preload(),B
+哪個函式用來改變游標樣式?,style(),cursor(),pointer(),B
